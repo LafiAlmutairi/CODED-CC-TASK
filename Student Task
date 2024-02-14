@@ -1,3 +1,3 @@
 Q1: Conduct a scan on the target and determine how many ports are open
-Q2: What is the name of the service running on port 21?
+Q2: What is the name of the service running on port 22?
 Q3: Provide the CVE ID number for at least two vulnerabilties existed in your scan
