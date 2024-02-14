@@ -1,2 +1,13 @@
-1. Step 1: Open the terminal and conduct a ping sweep to find live hosts on the network.
-  
+1.
+
+Step 1: Open the terminal and conduct a ping sweep to find live hosts on the network.
+Step 2: Using Nmap, determine how many ports are open and what services are running. 
+Step 3: Document the output in a separate file.
+------------------------------------------------------------------------------------------
+2.
+
+Step 1: Conduct internet search for the discovered services and determine whether a vulnerability existed.
+Step 2: Provide a proof of concept for the vulnerability and it’s CVE ID.
+
+
+------------------------------------------------------------------------------------------
